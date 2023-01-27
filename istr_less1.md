@@ -13,3 +13,15 @@
 Чтобы проверить текущее состояние репозитория нужно ввести команду:
 
     git status
+
+Домашнее задание - Описать список команд git ... :
+1. init
+2. status
+3. add 
+4. commit
+5. commit -m "message"
+6. commit -a
+7. commit -am
+8. log
+9. log  --oneline
+10. log all
