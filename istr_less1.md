@@ -24,4 +24,5 @@
 7. commit -am
 8. log
 9. log  --oneline
-10. log all
+10. log --all
+11. log --oneline --all
